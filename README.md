@@ -1,4 +1,4 @@
-# Cloud-Native DevOps Project (Part 1 of 5)
+# Cloud-Native DevOps Project (Part 2 of 5)
 
 ## Background
 
@@ -20,8 +20,8 @@ Our University Library is a cornerstone of academic resources, aims to enhance a
         <td>1</td><td>Deploying Microservice with PostgreSQL on Render</td><td>Task 4.2P</td>
     </tr>
     <tr>
-        <td>2</td><td>Containerizing Microservices with Docker and Deploying to Local Kubernetes</td><td>Task 6.2P</td>
-    </tr>
+**        <td>2</td><td>Containerizing Microservices with Docker and Deploying to Local Kubernetes</td><td>Task 6.2P</td>
+**    </tr>
     <tr>
         <td>3</td><td>Containerizing Microservices with Docker and Deploying to Azure Managed Kubernetes</td><td>Task 7.2P</td>
     </tr>
